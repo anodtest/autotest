@@ -1,4 +1,4 @@
-package com.thientester.common;
+package com.anodtester.common;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

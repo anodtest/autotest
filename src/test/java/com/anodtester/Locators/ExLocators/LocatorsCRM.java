@@ -1,4 +1,4 @@
-package com.thientester.Locators.ExLocators;
+package com.anodtester.Locators.ExLocators;
 
 public class LocatorsCRM {
 

@@ -12,7 +12,7 @@ import java.util.List;
 
 import static com.anodtester.common.BaseTest.createBrowser;
 
-public class HandleCheckbox extends BaseTest {
+public class HandleLogin extends BaseTest {
 
     @Test
     public void handleRadioButtonsWithClick() throws InterruptedException {

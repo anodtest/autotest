@@ -1,7 +1,7 @@
-package com.thientester.WebDriver;
+package com.anodtester.WebDriver;
 
-import com.thientester.Locators.ExLocators.LocatorsCRM;
-import com.thientester.common.BaseTest;
+import com.anodtester.Locators.ExLocators.LocatorsCRM;
+import com.anodtester.common.BaseTest;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;
 

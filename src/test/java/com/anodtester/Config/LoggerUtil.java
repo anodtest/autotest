@@ -1,4 +1,4 @@
-package com.thientester.Config;
+package com.anodtester.Config;
 
 import io.qameta.allure.Allure;
 import org.apache.logging.log4j.LogManager;

@@ -1,6 +1,6 @@
-package com.thientester.Checkbox_Radio_Dropdown;
+package com.anodtester.Checkbox_Radio_Dropdown;
 
-import com.thientester.common.BaseTest;
+import com.anodtester.common.BaseTest;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 

@@ -1,4 +1,4 @@
-package com.thientester.Config;
+package com.anodtester.Config;
 
 import java.util.HashMap;
 import java.util.Map;

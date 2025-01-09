@@ -1,7 +1,7 @@
-package com.thientester.Checkbox_Radio_Dropdown;
+package com.anodtester.Checkbox_Radio_Dropdown;
 
-import com.thientester.Locators.ExLocators.LocatorsCRM;
-import com.thientester.common.BaseTest;
+import com.anodtester.Locators.ExLocators.LocatorsCRM;
+import com.anodtester.common.BaseTest;
 import org.openqa.selenium.By;
 
 public class DemoAddCustomer extends BaseTest {

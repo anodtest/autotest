@@ -23,7 +23,7 @@
 </listeners>
 <test name="Allure Test">
     <classes>
-        <class name="com.thientester.Checkbox_Radio_Dropdown.HandleCheckbox" />
+        <class name="com.anodtester.Checkbox_Radio_Dropdown.HandleCheckbox" />
     </classes>
 </test>
 </suite>
