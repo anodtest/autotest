@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+
+<!--<suite name="Test Mobile" parallel="none">-->
+<!--    <listeners>-->
+<!--        <listener class-name="com.uniscore.tests.TestListener"/>-->
+<!--    </listeners>-->
+
+<!--    <test name="Android Tests">-->
+<!--        <parameter name="platform" value="Android" />-->
+<!--        <classes>-->
+<!--            <class name="com.uniscore.tests.Android.Language_Bra_Test"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+<!--</suite>-->
+
+<suite name="Allure Suite">
+<listeners>
+    <listener class-name="io.qameta.allure.testng.AllureTestNg" />
+</listeners>
+<test name="Allure Test">
+    <classes>
+        <class name="com.thientester.Checkbox_Radio_Dropdown.HandleCheckbox" />
+    </classes>
+</test>
+</suite>

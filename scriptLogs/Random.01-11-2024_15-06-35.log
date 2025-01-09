@@ -1,0 +1,15 @@
+[01-11-2024 15:06:56.247 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[01-11-2024 15:06:58.086 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[01-11-2024 15:07:01.607 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[01-11-2024 15:07:04.462 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[01-11-2024 15:07:05.352 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[01-11-2024 15:07:10.293 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[01-11-2024 15:07:16.470 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
+[01-11-2024 15:08:36.357 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[01-11-2024 15:08:36.359 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[01-11-2024 15:08:40.967 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[01-11-2024 15:08:44.958 INFO com.uniscore.Config.LoggerUtil] - Entered search term: Manchester United
+[01-11-2024 15:09:00.440 INFO com.uniscore.Config.LoggerUtil] - Clicked on the league: Manchester United
+[01-11-2024 15:09:02.446 INFO com.uniscore.Config.LoggerUtil] - Step 05: Selecting the club
+[01-11-2024 15:09:06.233 INFO com.uniscore.Config.LoggerUtil] - Clicked on the club: Manchester United
+[01-11-2024 15:09:08.239 INFO com.uniscore.Config.LoggerUtil] - Step 06: Scrolling down to find match: 06/10, FT, Aston Villa, Manchester United, 0, 0, 0, 0, 6, 3, D

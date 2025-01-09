@@ -1,0 +1,346 @@
+[23-10-2024 12:17:40.214 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[23-10-2024 12:17:40.271 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[23-10-2024 12:17:42.146 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to Football icon
+[23-10-2024 12:17:44.607 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to search icon and then input 'Cristiano Ronaldo' key
+[23-10-2024 12:17:47.861 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to player
+[23-10-2024 12:17:49.458 INFO com.uniscore.Config.LoggerUtil] - Step 06: Verify avt and player name on PlayerDetail is displayed
+[23-10-2024 12:17:52.909 INFO com.uniscore.Config.LoggerUtil] - Step 07: Verify text 'GENERAL INFORMATION' is displayed
+[23-10-2024 12:17:53.944 INFO com.uniscore.Config.LoggerUtil] - Step 08: Verify text Club Information is displayed
+[23-10-2024 12:17:58.004 INFO com.uniscore.Config.LoggerUtil] - Step 09: Verify Personal Information (nationality, Dob, Height,...) is displayed
+[23-10-2024 12:18:03.075 INFO com.uniscore.Config.LoggerUtil] - Step 10: Verify Transfer History is displayed
+[23-10-2024 12:18:07.569 INFO com.uniscore.Config.LoggerUtil] - Step 11: Verify all information transfer history of Player is displayed
+[23-10-2024 12:19:09.365 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[23-10-2024 12:19:09.420 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[23-10-2024 12:19:11.395 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to Football icon
+[23-10-2024 12:19:13.816 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to 'FINISHED' icon
+[23-10-2024 12:19:14.986 INFO com.uniscore.Config.LoggerUtil] - Step 05: Find match and click by Match name for keyboard
+[23-10-2024 12:19:49.132 INFO com.uniscore.Config.LoggerUtil] - Step 06: Click to Standing icon
+[23-10-2024 12:19:54.239 INFO com.uniscore.Config.LoggerUtil] - Step 06: Verify standing information is displayed
+[23-10-2024 12:26:42.864 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[23-10-2024 12:26:42.918 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[23-10-2024 12:26:44.691 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to Football icon
+[23-10-2024 12:26:47.223 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to search icon and then input 'Cristiano Ronaldo' key
+[23-10-2024 12:26:49.688 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to player
+[23-10-2024 12:26:51.260 INFO com.uniscore.Config.LoggerUtil] - Step 06: Verify avt and player name on PlayerDetail is displayed
+[23-10-2024 12:26:55.075 INFO com.uniscore.Config.LoggerUtil] - Step 07: Verify text 'GENERAL INFORMATION' is displayed
+[23-10-2024 12:26:55.980 INFO com.uniscore.Config.LoggerUtil] - Step 08: Verify text Club Information is displayed
+[23-10-2024 12:27:00.803 INFO com.uniscore.Config.LoggerUtil] - Step 09: Verify Personal Information (nationality, Dob, Height,...) is displayed
+[23-10-2024 12:27:07.040 INFO com.uniscore.Config.LoggerUtil] - Step 10: Verify Transfer History is displayed
+[23-10-2024 12:27:11.572 INFO com.uniscore.Config.LoggerUtil] - Step 11: Verify all information transfer history of Player is displayed
+[23-10-2024 12:27:25.066 INFO com.uniscore.Config.LoggerUtil] - TC_01 - Step 01: Initial HomePage
+[23-10-2024 12:27:25.067 INFO com.uniscore.Config.LoggerUtil] - TC_01 - Step 02: Click to Allow button
+[23-10-2024 12:27:27.207 INFO com.uniscore.Config.LoggerUtil] - TC_01 - Step 03: Click to Football icon
+[23-10-2024 12:27:29.718 INFO com.uniscore.Config.LoggerUtil] - TC_01 - Step 04: Click to search icon and then input 'Cristiano Ronaldo' key
+[23-10-2024 12:27:32.947 INFO com.uniscore.Config.LoggerUtil] - TC_01 - Step 05: Click to player
+[23-10-2024 12:27:34.633 INFO com.uniscore.Config.LoggerUtil] - TC_01 - Step 06: Verify avt and player name on PlayerDetail is displayed
+[23-10-2024 18:13:41.371 INFO com.uniscore.Config.LoggerUtil] - Step 01: Click allow button
+[23-10-2024 18:13:42.953 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Other button
+[23-10-2024 18:13:46.335 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to Language line
+[23-10-2024 18:13:47.323 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to language radio
+[23-10-2024 18:13:54.033 INFO com.uniscore.Config.LoggerUtil] - Step 05: Confirm action 'Yes' on Reset App PopUp
+[23-10-2024 18:13:54.802 INFO com.uniscore.Config.LoggerUtil] - Step 06: Verify text 'Bóng đá' is displayed
+[23-10-2024 18:14:02.227 INFO com.uniscore.Config.LoggerUtil] - Step 07: Enter value to 'Search' textbox
+[23-10-2024 18:14:08.625 INFO com.uniscore.Config.LoggerUtil] - Step 08: Click to Team
+[23-10-2024 18:14:15.704 INFO com.uniscore.Config.LoggerUtil] - Step 09: Click to Match recent
+[23-10-2024 18:14:18.425 INFO com.uniscore.Config.LoggerUtil] - Step 10: Click to Statistics Icon
+[23-10-2024 18:14:21.936 INFO com.uniscore.Config.LoggerUtil] - Step 11: Get all text screen
+[23-10-2024 18:16:30.265 INFO com.uniscore.Config.LoggerUtil] - Step 12: Compare all text got
+[24-10-2024 10:10:43.946 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[24-10-2024 10:10:47.427 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[24-10-2024 10:10:52.428 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[24-10-2024 10:10:56.440 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on the Premier League
+[24-10-2024 10:11:00.950 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click on the Top Statistics at Premier League
+[24-10-2024 10:11:15.951 INFO com.uniscore.Config.LoggerUtil] - Club to search for: Cole Palmer
+[24-10-2024 10:11:15.952 INFO com.uniscore.Config.LoggerUtil] - Step 07: Scroll down to find the club: Cole Palmer
+[24-10-2024 10:11:15.953 INFO com.uniscore.Config.LoggerUtil] - Looking for player: Cole Palmer
+[24-10-2024 10:11:21.747 INFO com.uniscore.Config.LoggerUtil] - Found player: Cole Palmer
+[24-10-2024 10:11:21.987 INFO com.uniscore.Config.LoggerUtil] - Verifying Top Player for Premier League: Cole Palmer
+[24-10-2024 10:11:27.500 INFO com.uniscore.Config.LoggerUtil] - Test Passed: Top Player verified in 43560 milliseconds
+[24-10-2024 10:11:27.577 INFO com.uniscore.Config.LoggerUtil] - Closing the driver
+[24-10-2024 10:12:38.494 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[24-10-2024 10:12:41.928 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[24-10-2024 10:12:46.652 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[24-10-2024 10:12:50.431 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on the Premier League
+[24-10-2024 10:12:54.787 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click on the Top Player at Premier League
+[24-10-2024 10:13:18.300 INFO com.uniscore.Config.LoggerUtil] - Club to search for: Cole Palmer
+[24-10-2024 10:13:18.301 INFO com.uniscore.Config.LoggerUtil] - Step 07: Scroll down to find the club: Cole Palmer
+[24-10-2024 10:13:18.301 INFO com.uniscore.Config.LoggerUtil] - Looking for player: Cole Palmer
+[24-10-2024 10:13:25.079 INFO com.uniscore.Config.LoggerUtil] - Found player: Cole Palmer
+[24-10-2024 10:13:25.318 INFO com.uniscore.Config.LoggerUtil] - Verifying Top Player for Premier League: Cole Palmer
+[24-10-2024 10:13:32.043 INFO com.uniscore.Config.LoggerUtil] - Player Cole Palmer found at position: 1
+[24-10-2024 10:13:32.391 INFO com.uniscore.Config.LoggerUtil] - Player details: Premier League ENGLAND 2024-2025 TOP PLAYER Rating # Player Rating 1 Mateo Kovačić Manchester City 8.08 2 Erling Braut Haaland Manchester City 8.08 3 Carlos Jonas Alcaraz Southampton 7.94 4 Cole Palmer Chelsea 7.91 5 Bukayo Saka Arsenal 7.88 6 James Maddison Tottenham Hotspur 7.88 7 Joško Gvardiol Manchester City 7.8 8 Kevin De Bruyne Manchester City 7.75 9 Luis Díaz Liverpool 7.72 10 Bryan Mbeumo Brentford 7.66 11 Neto Bournemouth AFC 7.64 12 Dwight McNeil Everton 7.6 13 Ryan Gravenberch Liverpool 7.59 14 Manuel Akanji Manchester City 7.57 15 Mohamed Salah Liverpool 7.57 16 João Pedro Brighton Hove Albion 7.55 17 Heung-Min Son Tottenham Hotspur 7.54 18 Yoane Wissa Brentford 7.48 19 Youri Tielemans Aston Villa 7.38 20 Jhon Durán Aston Villa 7.38 21 Bernardo Silva Manchester City 7.37 22 Nick Pope Newcastle United 7.36 23 Ollie Watkins Aston Villa 7.3 24 Danny Welbeck Brighton Hove Albion 7.29 25 David Raya Arsenal 7.27 26 Mads Hermansen Leicester City 7.25 27 Callum Hudson-Odoi Nottingham Forest 7.21 28 Micky van de Ven Tottenham Hotspur 7.2 29 Mohammed Kudus West Ham United 7.19 30 Nicolas Jackson Chelsea 7.19 Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Premier League Toolbar Toolbar
+[24-10-2024 10:13:33.043 INFO com.uniscore.Config.LoggerUtil] - Test Passed: Top Player verified in 54552 milliseconds
+[24-10-2024 10:13:33.105 INFO com.uniscore.Config.LoggerUtil] - Closing the driver
+[24-10-2024 10:27:26.528 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[24-10-2024 10:27:29.904 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[24-10-2024 10:27:34.928 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[24-10-2024 10:27:38.499 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on the Premier League
+[24-10-2024 10:27:40.323 INFO com.uniscore.Config.LoggerUtil] - Test Failed: Error occurred after searching for Top Player, failed after 13803 milliseconds.
+[24-10-2024 10:27:40.568 INFO com.uniscore.Config.LoggerUtil] - Closing the driver
+[24-10-2024 10:28:45.602 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[24-10-2024 10:28:48.952 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[24-10-2024 10:28:53.725 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[24-10-2024 10:28:57.646 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on the Premier League
+[24-10-2024 10:28:59.694 INFO com.uniscore.Config.LoggerUtil] - Test Failed: Error occurred after searching for Top Player, failed after 14098 milliseconds.
+[24-10-2024 10:28:59.954 INFO com.uniscore.Config.LoggerUtil] - Closing the driver
+[24-10-2024 11:50:56.161 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[24-10-2024 11:50:59.660 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[24-10-2024 11:51:04.864 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[24-10-2024 11:51:08.378 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on the Premier League
+[24-10-2024 11:51:12.722 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click on the Standing at Premier League
+[24-10-2024 11:52:09.372 INFO com.uniscore.Config.LoggerUtil] - Club to search for: Manchester United
+[24-10-2024 11:52:09.372 INFO com.uniscore.Config.LoggerUtil] - Step 07: Scroll down to find the club: Manchester United
+[24-10-2024 11:52:09.373 INFO com.uniscore.Config.LoggerUtil] - Looking for club: Manchester United
+[24-10-2024 11:52:14.397 INFO com.uniscore.Config.LoggerUtil] - Found club: Manchester United
+[24-10-2024 11:52:14.624 INFO com.uniscore.Config.LoggerUtil] - Verifying PTS score and ranking for club: Manchester United
+[24-10-2024 11:52:19.205 INFO com.uniscore.Config.LoggerUtil] - Test Passed: Club standing verified in 83048 milliseconds
+[24-10-2024 11:52:19.268 INFO com.uniscore.Config.LoggerUtil] - Closing the driver
+[24-10-2024 11:53:32.544 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[24-10-2024 11:53:35.916 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[24-10-2024 11:53:39.761 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[24-10-2024 11:53:43.666 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on the Premier League
+[24-10-2024 11:53:47.992 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click on the Standing at Premier League
+[24-10-2024 11:53:59.636 INFO com.uniscore.Config.LoggerUtil] - Club to search for: Manchester United
+[24-10-2024 11:53:59.638 INFO com.uniscore.Config.LoggerUtil] - Step 07: Scroll down to find the club: Manchester United
+[24-10-2024 11:53:59.638 INFO com.uniscore.Config.LoggerUtil] - Looking for club: Manchester United
+[24-10-2024 11:54:08.487 INFO com.uniscore.Config.LoggerUtil] - Club not found, scrolling down...
+[24-10-2024 11:54:08.487 INFO com.uniscore.Config.LoggerUtil] - Scrolling down...
+[24-10-2024 11:54:13.701 INFO com.uniscore.Config.LoggerUtil] - Looking for club: Manchester United
+[24-10-2024 11:54:22.970 INFO com.uniscore.Config.LoggerUtil] - Club not found, scrolling down...
+[24-10-2024 11:54:22.971 INFO com.uniscore.Config.LoggerUtil] - Scrolling down...
+[24-10-2024 11:54:28.576 INFO com.uniscore.Config.LoggerUtil] - Looking for club: Manchester United
+[24-10-2024 11:54:38.337 INFO com.uniscore.Config.LoggerUtil] - Found club: Manchester United
+[24-10-2024 11:54:38.532 INFO com.uniscore.Config.LoggerUtil] - Verifying PTS score and ranking for club: Manchester United
+[24-10-2024 11:54:42.770 INFO com.uniscore.Config.LoggerUtil] - Test Passed: Club standing verified in 70230 milliseconds
+[24-10-2024 11:54:42.856 INFO com.uniscore.Config.LoggerUtil] - Closing the driver
+[25-10-2024 10:46:44.723 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[25-10-2024 10:46:46.196 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[25-10-2024 10:46:50.533 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[25-10-2024 10:46:55.278 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on the Premier League
+[25-10-2024 10:46:59.477 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click on the Top Statistics at Premier League
+[25-10-2024 10:47:01.811 INFO com.uniscore.Config.LoggerUtil] - Test Failed: Error occurred after searching for Top Player, failed after 17096 milliseconds.
+[25-10-2024 10:47:02.235 INFO com.uniscore.Config.LoggerUtil] - Closing the driver
+[25-10-2024 10:50:03.286 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[25-10-2024 10:50:04.382 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[25-10-2024 10:50:07.840 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[25-10-2024 10:50:11.783 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on the Premier League
+[25-10-2024 10:50:16.008 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click on the Top Statistics at Premier League
+[25-10-2024 10:50:18.391 INFO com.uniscore.Config.LoggerUtil] - Test Failed: Error occurred after searching for Top Player, failed after 15112 milliseconds.
+[25-10-2024 10:50:18.695 INFO com.uniscore.Config.LoggerUtil] - Closing the driver
+[25-10-2024 10:51:01.936 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[25-10-2024 10:51:03.182 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[25-10-2024 10:51:07.489 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[25-10-2024 10:51:10.834 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on the Premier League
+[25-10-2024 10:51:15.020 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click on the Standing at Premier League
+[25-10-2024 10:51:26.723 INFO com.uniscore.Config.LoggerUtil] - Club to search for: Manchester United
+[25-10-2024 10:51:26.724 INFO com.uniscore.Config.LoggerUtil] - Step 07: Scroll down to find the club: Manchester United
+[25-10-2024 10:51:26.724 INFO com.uniscore.Config.LoggerUtil] - Looking for club: Manchester United
+[25-10-2024 10:51:31.825 INFO com.uniscore.Config.LoggerUtil] - Found club: Manchester United
+[25-10-2024 10:51:32.063 INFO com.uniscore.Config.LoggerUtil] - Verifying PTS score and ranking for club: Manchester United
+[25-10-2024 10:51:36.691 INFO com.uniscore.Config.LoggerUtil] - Test Passed: Club standing verified in 34761 milliseconds
+[25-10-2024 10:51:36.743 INFO com.uniscore.Config.LoggerUtil] - Closing the driver
+[25-10-2024 13:35:33.930 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[25-10-2024 13:35:35.116 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[25-10-2024 13:35:37.213 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[25-10-2024 13:35:39.953 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[25-10-2024 13:35:41.079 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[25-10-2024 13:35:46.089 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[25-10-2024 13:35:52.377 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
+[25-10-2024 13:35:52.660 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[25-10-2024 13:35:52.661 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[25-10-2024 13:35:56.135 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[25-10-2024 13:35:59.536 INFO com.uniscore.Config.LoggerUtil] - Entered search term: Manchester United
+[25-10-2024 13:36:05.169 INFO com.uniscore.Config.LoggerUtil] - Clicked on the league: Manchester United
+[25-10-2024 13:36:07.173 INFO com.uniscore.Config.LoggerUtil] - Step 05: Selecting the club
+[25-10-2024 13:36:10.396 INFO com.uniscore.Config.LoggerUtil] - Clicked on the club: Manchester United
+[25-10-2024 13:36:12.398 INFO com.uniscore.Config.LoggerUtil] - Step 06: Scrolling down to find match: 06/10, FT, Aston Villa, Manchester United, 0, 0, 0, 0, 6, 3, D
+[25-10-2024 13:37:42.717 INFO com.uniscore.Config.LoggerUtil] - Match not found, scrolling down...
+[25-10-2024 13:37:46.732 INFO com.uniscore.Config.LoggerUtil] - Match found: 06/10, FT, Aston Villa, Manchester United, 0, 0, 0, 0, 6, 3, D
+[25-10-2024 13:37:47.471 INFO com.uniscore.Config.LoggerUtil] - Step 07: Comparing match result for match: 06/10, FT, Aston Villa, Manchester United, 0, 0, 0, 0, 6, 3, D
+[25-10-2024 13:37:47.475 INFO com.uniscore.Config.LoggerUtil] - Result is Draw (D): Aston Villa 0 - Manchester United 0
+[25-10-2024 13:39:38.647 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[25-10-2024 13:39:38.806 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[25-10-2024 13:39:40.490 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[25-10-2024 13:39:43.731 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[25-10-2024 13:39:44.987 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[25-10-2024 13:39:49.917 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[25-10-2024 13:39:56.145 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
+[25-10-2024 13:39:57.117 INFO com.uniscore.Config.LoggerUtil] - Step 10: Click to Finished
+[25-10-2024 13:39:58.793 INFO com.uniscore.Config.LoggerUtil] - Step 11: Choose random match in Finished
+[25-10-2024 13:40:08.943 INFO com.uniscore.Config.LoggerUtil] - Step 12: Select comment match ...
+[25-10-2024 13:54:07.199 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[25-10-2024 13:54:08.291 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[25-10-2024 13:54:10.589 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[25-10-2024 13:54:13.166 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[25-10-2024 13:54:14.333 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[25-10-2024 13:54:19.330 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[25-10-2024 13:54:25.636 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
+[25-10-2024 13:54:26.361 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[25-10-2024 13:54:26.363 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[25-10-2024 13:54:29.424 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[25-10-2024 13:54:35.922 INFO com.uniscore.Config.LoggerUtil] - Entered search term: Manchester United
+[25-10-2024 13:54:41.483 INFO com.uniscore.Config.LoggerUtil] - Clicked on the league: Manchester United
+[25-10-2024 13:54:43.488 INFO com.uniscore.Config.LoggerUtil] - Step 05: Selecting the club
+[25-10-2024 13:54:47.044 INFO com.uniscore.Config.LoggerUtil] - Clicked on the club: Manchester United
+[25-10-2024 13:54:49.047 INFO com.uniscore.Config.LoggerUtil] - Step 06: Scrolling down to find match: 06/10, FT, Aston Villa, Manchester United, 0, 0, 0, 0, 6, 3, D
+[25-10-2024 13:58:46.559 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[25-10-2024 13:58:46.734 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[25-10-2024 13:58:48.578 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to Football icon
+[25-10-2024 13:58:51.797 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to search icon and then input 'Match' into search box
+[25-10-2024 14:02:20.787 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Match
+[25-10-2024 14:02:40.065 INFO com.uniscore.Config.LoggerUtil] - Step 06: Click to 'Matches' icon and enter Match name you want to find
+[25-10-2024 14:02:49.848 INFO com.uniscore.Config.LoggerUtil] - Step 07: Verify information at Matches Overview
+[31-10-2024 09:54:36.351 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[31-10-2024 09:54:38.492 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[31-10-2024 09:54:45.939 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[31-10-2024 09:54:48.951 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[31-10-2024 09:54:50.276 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[31-10-2024 09:54:55.363 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[31-10-2024 09:55:10.629 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
+[31-10-2024 09:56:38.192 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[31-10-2024 09:56:38.195 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[31-10-2024 09:58:15.936 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[31-10-2024 09:58:18.302 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[31-10-2024 09:58:22.661 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: UEFA Nations League
+[31-10-2024 09:58:22.661 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[31-10-2024 09:58:26.812 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[31-10-2024 09:58:31.535 INFO com.uniscore.Config.LoggerUtil] - Entered search term: UEFA Nations League
+[31-10-2024 09:58:33.538 INFO com.uniscore.Config.LoggerUtil] - Step 05: Selecting the league
+[31-10-2024 09:58:40.211 INFO com.uniscore.Config.LoggerUtil] - Clicked on the league: UEFA Nations League
+[31-10-2024 09:58:40.212 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to top Player Button
+[31-10-2024 09:58:44.584 INFO com.uniscore.Config.LoggerUtil] - Step 06: Scrolling right to find TOP TEAM section
+[31-10-2024 09:58:50.980 INFO com.uniscore.Config.LoggerUtil] - TOP TEAM found!
+[31-10-2024 09:58:51.944 INFO com.uniscore.Config.LoggerUtil] - Clicked on the TOP TEAM element
+[31-10-2024 09:58:51.949 INFO com.uniscore.Config.LoggerUtil] - Step 07: Scrolling down to find Belgium
+[31-10-2024 10:00:40.992 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[31-10-2024 10:00:43.088 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[31-10-2024 10:00:47.430 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: UEFA Nations League
+[31-10-2024 10:00:47.432 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[31-10-2024 10:00:50.880 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[31-10-2024 10:00:55.563 INFO com.uniscore.Config.LoggerUtil] - Entered search term: UEFA Nations League
+[31-10-2024 10:00:57.569 INFO com.uniscore.Config.LoggerUtil] - Step 05: Selecting the league
+[31-10-2024 10:02:27.919 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[31-10-2024 10:02:30.177 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[31-10-2024 10:02:34.781 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: UEFA Nations League
+[31-10-2024 10:02:34.784 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[31-10-2024 10:02:39.746 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[31-10-2024 10:02:43.368 INFO com.uniscore.Config.LoggerUtil] - Entered search term: UEFA Nations League
+[31-10-2024 10:02:45.372 INFO com.uniscore.Config.LoggerUtil] - Step 05: Selecting the league
+[31-10-2024 10:02:48.567 INFO com.uniscore.Config.LoggerUtil] - Clicked on the league: UEFA Nations League
+[31-10-2024 10:02:48.568 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to top Player Button
+[31-10-2024 10:02:52.693 INFO com.uniscore.Config.LoggerUtil] - Step 06: Scrolling right to find TOP TEAM section
+[31-10-2024 10:02:59.267 INFO com.uniscore.Config.LoggerUtil] - TOP TEAM found!
+[31-10-2024 10:03:00.314 INFO com.uniscore.Config.LoggerUtil] - Clicked on the TOP TEAM element
+[31-10-2024 10:03:00.314 INFO com.uniscore.Config.LoggerUtil] - Step 07: Scrolling down to find Belgium
+[31-10-2024 10:04:59.507 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[31-10-2024 10:05:02.016 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[31-10-2024 10:05:07.000 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[31-10-2024 10:05:07.001 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[31-10-2024 10:05:11.851 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[31-10-2024 10:05:15.320 INFO com.uniscore.Config.LoggerUtil] - Entered search term: Manchester United
+[31-10-2024 10:09:28.711 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[31-10-2024 10:09:31.224 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[31-10-2024 10:09:35.300 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[31-10-2024 10:09:35.302 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[31-10-2024 10:09:40.511 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[31-10-2024 10:09:44.344 INFO com.uniscore.Config.LoggerUtil] - Entered search term: Manchester United
+[31-10-2024 10:11:41.795 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[31-10-2024 10:11:43.664 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[31-10-2024 10:11:48.926 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[31-10-2024 10:11:48.931 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[31-10-2024 10:11:55.782 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[31-10-2024 10:11:59.672 INFO com.uniscore.Config.LoggerUtil] - Entered search term: Manchester United
+[31-10-2024 10:24:45.708 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[31-10-2024 10:24:48.411 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[31-10-2024 10:24:54.467 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[31-10-2024 10:24:58.440 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[31-10-2024 10:24:59.882 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[31-10-2024 10:25:05.573 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[31-10-2024 10:25:12.061 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
+[31-10-2024 10:27:32.455 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[31-10-2024 10:27:34.463 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[31-10-2024 10:27:39.698 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[31-10-2024 10:27:44.277 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[31-10-2024 10:27:45.500 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[31-10-2024 10:27:50.606 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[31-10-2024 10:27:56.763 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
+[31-10-2024 10:28:54.158 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[31-10-2024 10:28:54.159 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[31-10-2024 10:29:33.157 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[31-10-2024 10:29:35.410 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[31-10-2024 10:29:40.183 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[31-10-2024 10:29:47.778 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[31-10-2024 10:29:49.440 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[31-10-2024 10:29:54.550 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[31-10-2024 10:30:00.736 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
+[31-10-2024 10:30:00.992 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[31-10-2024 10:30:00.993 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[31-10-2024 10:30:04.925 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[31-10-2024 10:30:11.807 INFO com.uniscore.Config.LoggerUtil] - Entered search term: Manchester United
+[01-11-2024 15:06:56.247 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[01-11-2024 15:06:58.086 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[01-11-2024 15:07:01.607 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[01-11-2024 15:07:04.462 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[01-11-2024 15:07:05.352 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[01-11-2024 15:07:10.293 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[01-11-2024 15:07:16.470 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
+[01-11-2024 15:08:36.357 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[01-11-2024 15:08:36.359 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[01-11-2024 15:08:40.967 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[01-11-2024 15:08:44.958 INFO com.uniscore.Config.LoggerUtil] - Entered search term: Manchester United
+[01-11-2024 15:09:00.440 INFO com.uniscore.Config.LoggerUtil] - Clicked on the league: Manchester United
+[01-11-2024 15:09:02.446 INFO com.uniscore.Config.LoggerUtil] - Step 05: Selecting the club
+[01-11-2024 15:09:06.233 INFO com.uniscore.Config.LoggerUtil] - Clicked on the club: Manchester United
+[01-11-2024 15:09:08.239 INFO com.uniscore.Config.LoggerUtil] - Step 06: Scrolling down to find match: 06/10, FT, Aston Villa, Manchester United, 0, 0, 0, 0, 6, 3, D
+[01-11-2024 15:12:46.921 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[01-11-2024 15:12:48.963 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[01-11-2024 15:12:52.307 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[01-11-2024 15:12:54.872 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[01-11-2024 15:12:56.004 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[01-11-2024 15:13:00.930 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[01-11-2024 15:13:07.086 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
+[01-11-2024 15:13:07.804 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[01-11-2024 15:13:07.804 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[06-11-2024 05:23:17.238 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[06-11-2024 05:23:20.933 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[06-11-2024 05:23:29.557 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[06-11-2024 05:23:41.607 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[06-11-2024 05:23:46.920 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[06-11-2024 05:23:52.564 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[06-11-2024 05:24:00.983 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
+[06-11-2024 05:25:32.510 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[06-11-2024 05:25:32.512 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[06-11-2024 05:26:27.068 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[06-11-2024 05:26:30.193 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[06-11-2024 05:26:34.362 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[06-11-2024 05:26:38.076 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[06-11-2024 05:26:39.266 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[06-11-2024 05:26:44.207 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[06-11-2024 05:26:50.513 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
+[06-11-2024 05:26:50.828 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[06-11-2024 05:26:50.829 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[06-11-2024 05:26:53.648 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[06-11-2024 05:26:56.765 INFO com.uniscore.Config.LoggerUtil] - Entered search term: Manchester United
+[06-11-2024 05:27:02.190 INFO com.uniscore.Config.LoggerUtil] - Clicked on the league: Manchester United
+[06-11-2024 05:27:04.193 INFO com.uniscore.Config.LoggerUtil] - Step 05: Selecting the club
+[06-11-2024 05:27:08.956 INFO com.uniscore.Config.LoggerUtil] - Clicked on the club: Manchester United
+[06-11-2024 05:27:10.961 INFO com.uniscore.Config.LoggerUtil] - Step 06: Scrolling down to find match: 06/10, FT, Aston Villa, Manchester United, 0, 0, 0, 0, 6, 3, D
+[06-11-2024 05:28:41.057 INFO com.uniscore.Config.LoggerUtil] - Match not found, scrolling down...
+[06-11-2024 05:28:43.655 INFO com.uniscore.Config.LoggerUtil] - Match found: 06/10, FT, Aston Villa, Manchester United, 0, 0, 0, 0, 6, 3, D
+[06-11-2024 05:28:44.901 INFO com.uniscore.Config.LoggerUtil] - Step 07: Comparing match result for match: 06/10, FT, Aston Villa, Manchester United, 0, 0, 0, 0, 6, 3, D
+[06-11-2024 05:28:44.905 INFO com.uniscore.Config.LoggerUtil] - Result is Draw (D): Aston Villa 0 - Manchester United 0
+[06-11-2024 05:50:54.947 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[06-11-2024 05:50:56.382 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[06-11-2024 05:51:00.064 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[06-11-2024 05:51:01.270 INFO com.uniscore.Config.LoggerUtil] - Test Failed: Error occurred after searching for Top Player, failed after 6331 milliseconds.
+[06-11-2024 05:51:01.672 INFO com.uniscore.Config.LoggerUtil] - Closing the driver
+[06-11-2024 05:51:46.825 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[06-11-2024 05:51:47.887 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[06-11-2024 05:51:52.178 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[06-11-2024 05:51:53.454 INFO com.uniscore.Config.LoggerUtil] - Test Failed: Error occurred after searching for club, failed after 6635 milliseconds.
+[06-11-2024 05:51:53.785 INFO com.uniscore.Config.LoggerUtil] - Closing the driver
+[06-11-2024 05:52:39.570 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[06-11-2024 05:52:40.653 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[06-11-2024 05:52:44.828 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[06-11-2024 05:52:47.423 INFO com.uniscore.Config.LoggerUtil] - Test Failed: Error occurred after searching for Top Player, failed after 7862 milliseconds.
+[06-11-2024 05:52:47.842 INFO com.uniscore.Config.LoggerUtil] - Closing the driver

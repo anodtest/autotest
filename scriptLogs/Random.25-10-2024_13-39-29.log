@@ -1,0 +1,10 @@
+[25-10-2024 13:39:38.647 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[25-10-2024 13:39:38.806 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[25-10-2024 13:39:40.490 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[25-10-2024 13:39:43.731 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[25-10-2024 13:39:44.987 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[25-10-2024 13:39:49.917 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[25-10-2024 13:39:56.145 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
+[25-10-2024 13:39:57.117 INFO com.uniscore.Config.LoggerUtil] - Step 10: Click to Finished
+[25-10-2024 13:39:58.793 INFO com.uniscore.Config.LoggerUtil] - Step 11: Choose random match in Finished
+[25-10-2024 13:40:08.943 INFO com.uniscore.Config.LoggerUtil] - Step 12: Select comment match ...

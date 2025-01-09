@@ -1,0 +1,12 @@
+[23-10-2024 18:13:41.371 INFO com.uniscore.Config.LoggerUtil] - Step 01: Click allow button
+[23-10-2024 18:13:42.953 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Other button
+[23-10-2024 18:13:46.335 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to Language line
+[23-10-2024 18:13:47.323 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to language radio
+[23-10-2024 18:13:54.033 INFO com.uniscore.Config.LoggerUtil] - Step 05: Confirm action 'Yes' on Reset App PopUp
+[23-10-2024 18:13:54.802 INFO com.uniscore.Config.LoggerUtil] - Step 06: Verify text 'Bóng đá' is displayed
+[23-10-2024 18:14:02.227 INFO com.uniscore.Config.LoggerUtil] - Step 07: Enter value to 'Search' textbox
+[23-10-2024 18:14:08.625 INFO com.uniscore.Config.LoggerUtil] - Step 08: Click to Team
+[23-10-2024 18:14:15.704 INFO com.uniscore.Config.LoggerUtil] - Step 09: Click to Match recent
+[23-10-2024 18:14:18.425 INFO com.uniscore.Config.LoggerUtil] - Step 10: Click to Statistics Icon
+[23-10-2024 18:14:21.936 INFO com.uniscore.Config.LoggerUtil] - Step 11: Get all text screen
+[23-10-2024 18:16:30.265 INFO com.uniscore.Config.LoggerUtil] - Step 12: Compare all text got

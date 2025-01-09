@@ -1,0 +1,6 @@
+[31-10-2024 10:11:41.795 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[31-10-2024 10:11:43.664 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[31-10-2024 10:11:48.926 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[31-10-2024 10:11:48.931 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[31-10-2024 10:11:55.782 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[31-10-2024 10:11:59.672 INFO com.uniscore.Config.LoggerUtil] - Entered search term: Manchester United

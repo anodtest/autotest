@@ -1,0 +1,5 @@
+[06-11-2024 05:51:46.825 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[06-11-2024 05:51:47.887 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[06-11-2024 05:51:52.178 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[06-11-2024 05:51:53.454 INFO com.uniscore.Config.LoggerUtil] - Test Failed: Error occurred after searching for club, failed after 6635 milliseconds.
+[06-11-2024 05:51:53.785 INFO com.uniscore.Config.LoggerUtil] - Closing the driver

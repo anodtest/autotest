@@ -1,0 +1,13 @@
+[31-10-2024 09:58:15.936 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[31-10-2024 09:58:18.302 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[31-10-2024 09:58:22.661 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: UEFA Nations League
+[31-10-2024 09:58:22.661 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[31-10-2024 09:58:26.812 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[31-10-2024 09:58:31.535 INFO com.uniscore.Config.LoggerUtil] - Entered search term: UEFA Nations League
+[31-10-2024 09:58:33.538 INFO com.uniscore.Config.LoggerUtil] - Step 05: Selecting the league
+[31-10-2024 09:58:40.211 INFO com.uniscore.Config.LoggerUtil] - Clicked on the league: UEFA Nations League
+[31-10-2024 09:58:40.212 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to top Player Button
+[31-10-2024 09:58:44.584 INFO com.uniscore.Config.LoggerUtil] - Step 06: Scrolling right to find TOP TEAM section
+[31-10-2024 09:58:50.980 INFO com.uniscore.Config.LoggerUtil] - TOP TEAM found!
+[31-10-2024 09:58:51.944 INFO com.uniscore.Config.LoggerUtil] - Clicked on the TOP TEAM element
+[31-10-2024 09:58:51.949 INFO com.uniscore.Config.LoggerUtil] - Step 07: Scrolling down to find Belgium

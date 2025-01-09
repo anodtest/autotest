@@ -1,0 +1,12 @@
+[24-10-2024 10:10:43.946 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[24-10-2024 10:10:47.427 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[24-10-2024 10:10:52.428 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[24-10-2024 10:10:56.440 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on the Premier League
+[24-10-2024 10:11:00.950 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click on the Top Statistics at Premier League
+[24-10-2024 10:11:15.951 INFO com.uniscore.Config.LoggerUtil] - Club to search for: Cole Palmer
+[24-10-2024 10:11:15.952 INFO com.uniscore.Config.LoggerUtil] - Step 07: Scroll down to find the club: Cole Palmer
+[24-10-2024 10:11:15.953 INFO com.uniscore.Config.LoggerUtil] - Looking for player: Cole Palmer
+[24-10-2024 10:11:21.747 INFO com.uniscore.Config.LoggerUtil] - Found player: Cole Palmer
+[24-10-2024 10:11:21.987 INFO com.uniscore.Config.LoggerUtil] - Verifying Top Player for Premier League: Cole Palmer
+[24-10-2024 10:11:27.500 INFO com.uniscore.Config.LoggerUtil] - Test Passed: Top Player verified in 43560 milliseconds
+[24-10-2024 10:11:27.577 INFO com.uniscore.Config.LoggerUtil] - Closing the driver

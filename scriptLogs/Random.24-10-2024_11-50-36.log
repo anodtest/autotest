@@ -1,0 +1,12 @@
+[24-10-2024 11:50:56.161 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[24-10-2024 11:50:59.660 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[24-10-2024 11:51:04.864 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[24-10-2024 11:51:08.378 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on the Premier League
+[24-10-2024 11:51:12.722 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click on the Standing at Premier League
+[24-10-2024 11:52:09.372 INFO com.uniscore.Config.LoggerUtil] - Club to search for: Manchester United
+[24-10-2024 11:52:09.372 INFO com.uniscore.Config.LoggerUtil] - Step 07: Scroll down to find the club: Manchester United
+[24-10-2024 11:52:09.373 INFO com.uniscore.Config.LoggerUtil] - Looking for club: Manchester United
+[24-10-2024 11:52:14.397 INFO com.uniscore.Config.LoggerUtil] - Found club: Manchester United
+[24-10-2024 11:52:14.624 INFO com.uniscore.Config.LoggerUtil] - Verifying PTS score and ranking for club: Manchester United
+[24-10-2024 11:52:19.205 INFO com.uniscore.Config.LoggerUtil] - Test Passed: Club standing verified in 83048 milliseconds
+[24-10-2024 11:52:19.268 INFO com.uniscore.Config.LoggerUtil] - Closing the driver

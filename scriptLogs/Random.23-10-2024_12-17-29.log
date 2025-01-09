@@ -1,0 +1,11 @@
+[23-10-2024 12:17:40.214 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[23-10-2024 12:17:40.271 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[23-10-2024 12:17:42.146 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to Football icon
+[23-10-2024 12:17:44.607 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to search icon and then input 'Cristiano Ronaldo' key
+[23-10-2024 12:17:47.861 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to player
+[23-10-2024 12:17:49.458 INFO com.uniscore.Config.LoggerUtil] - Step 06: Verify avt and player name on PlayerDetail is displayed
+[23-10-2024 12:17:52.909 INFO com.uniscore.Config.LoggerUtil] - Step 07: Verify text 'GENERAL INFORMATION' is displayed
+[23-10-2024 12:17:53.944 INFO com.uniscore.Config.LoggerUtil] - Step 08: Verify text Club Information is displayed
+[23-10-2024 12:17:58.004 INFO com.uniscore.Config.LoggerUtil] - Step 09: Verify Personal Information (nationality, Dob, Height,...) is displayed
+[23-10-2024 12:18:03.075 INFO com.uniscore.Config.LoggerUtil] - Step 10: Verify Transfer History is displayed
+[23-10-2024 12:18:07.569 INFO com.uniscore.Config.LoggerUtil] - Step 11: Verify all information transfer history of Player is displayed

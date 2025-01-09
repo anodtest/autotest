@@ -1,0 +1,7 @@
+[31-10-2024 10:00:40.992 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[31-10-2024 10:00:43.088 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[31-10-2024 10:00:47.430 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: UEFA Nations League
+[31-10-2024 10:00:47.432 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[31-10-2024 10:00:50.880 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[31-10-2024 10:00:55.563 INFO com.uniscore.Config.LoggerUtil] - Entered search term: UEFA Nations League
+[31-10-2024 10:00:57.569 INFO com.uniscore.Config.LoggerUtil] - Step 05: Selecting the league

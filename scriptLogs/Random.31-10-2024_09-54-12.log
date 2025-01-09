@@ -1,0 +1,9 @@
+[31-10-2024 09:54:36.351 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[31-10-2024 09:54:38.492 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[31-10-2024 09:54:45.939 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[31-10-2024 09:54:48.951 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[31-10-2024 09:54:50.276 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[31-10-2024 09:54:55.363 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[31-10-2024 09:55:10.629 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
+[31-10-2024 09:56:38.192 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[31-10-2024 09:56:38.195 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon

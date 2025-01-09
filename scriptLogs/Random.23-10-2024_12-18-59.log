@@ -1,0 +1,7 @@
+[23-10-2024 12:19:09.365 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[23-10-2024 12:19:09.420 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[23-10-2024 12:19:11.395 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to Football icon
+[23-10-2024 12:19:13.816 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to 'FINISHED' icon
+[23-10-2024 12:19:14.986 INFO com.uniscore.Config.LoggerUtil] - Step 05: Find match and click by Match name for keyboard
+[23-10-2024 12:19:49.132 INFO com.uniscore.Config.LoggerUtil] - Step 06: Click to Standing icon
+[23-10-2024 12:19:54.239 INFO com.uniscore.Config.LoggerUtil] - Step 06: Verify standing information is displayed

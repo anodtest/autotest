@@ -1,0 +1,7 @@
+[25-10-2024 10:50:03.286 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[25-10-2024 10:50:04.382 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click on the Leagues button
+[25-10-2024 10:50:07.840 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click on the Hot Leagues button
+[25-10-2024 10:50:11.783 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on the Premier League
+[25-10-2024 10:50:16.008 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click on the Top Statistics at Premier League
+[25-10-2024 10:50:18.391 INFO com.uniscore.Config.LoggerUtil] - Test Failed: Error occurred after searching for Top Player, failed after 15112 milliseconds.
+[25-10-2024 10:50:18.695 INFO com.uniscore.Config.LoggerUtil] - Closing the driver

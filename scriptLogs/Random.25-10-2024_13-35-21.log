@@ -1,0 +1,19 @@
+[25-10-2024 13:35:33.930 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[25-10-2024 13:35:35.116 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[25-10-2024 13:35:37.213 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[25-10-2024 13:35:39.953 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[25-10-2024 13:35:41.079 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[25-10-2024 13:35:46.089 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[25-10-2024 13:35:52.377 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
+[25-10-2024 13:35:52.660 INFO com.uniscore.Config.LoggerUtil] - Step 03: Initiate search for: Manchester United
+[25-10-2024 13:35:52.661 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click on search icon
+[25-10-2024 13:35:56.135 INFO com.uniscore.Config.LoggerUtil] - Clicked on search icon
+[25-10-2024 13:35:59.536 INFO com.uniscore.Config.LoggerUtil] - Entered search term: Manchester United
+[25-10-2024 13:36:05.169 INFO com.uniscore.Config.LoggerUtil] - Clicked on the league: Manchester United
+[25-10-2024 13:36:07.173 INFO com.uniscore.Config.LoggerUtil] - Step 05: Selecting the club
+[25-10-2024 13:36:10.396 INFO com.uniscore.Config.LoggerUtil] - Clicked on the club: Manchester United
+[25-10-2024 13:36:12.398 INFO com.uniscore.Config.LoggerUtil] - Step 06: Scrolling down to find match: 06/10, FT, Aston Villa, Manchester United, 0, 0, 0, 0, 6, 3, D
+[25-10-2024 13:37:42.717 INFO com.uniscore.Config.LoggerUtil] - Match not found, scrolling down...
+[25-10-2024 13:37:46.732 INFO com.uniscore.Config.LoggerUtil] - Match found: 06/10, FT, Aston Villa, Manchester United, 0, 0, 0, 0, 6, 3, D
+[25-10-2024 13:37:47.471 INFO com.uniscore.Config.LoggerUtil] - Step 07: Comparing match result for match: 06/10, FT, Aston Villa, Manchester United, 0, 0, 0, 0, 6, 3, D
+[25-10-2024 13:37:47.475 INFO com.uniscore.Config.LoggerUtil] - Result is Draw (D): Aston Villa 0 - Manchester United 0

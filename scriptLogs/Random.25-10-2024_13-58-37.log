@@ -1,0 +1,7 @@
+[25-10-2024 13:58:46.559 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[25-10-2024 13:58:46.734 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[25-10-2024 13:58:48.578 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to Football icon
+[25-10-2024 13:58:51.797 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to search icon and then input 'Match' into search box
+[25-10-2024 14:02:20.787 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Match
+[25-10-2024 14:02:40.065 INFO com.uniscore.Config.LoggerUtil] - Step 06: Click to 'Matches' icon and enter Match name you want to find
+[25-10-2024 14:02:49.848 INFO com.uniscore.Config.LoggerUtil] - Step 07: Verify information at Matches Overview

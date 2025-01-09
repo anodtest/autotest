@@ -1,0 +1,7 @@
+[31-10-2024 10:24:45.708 INFO com.uniscore.Config.LoggerUtil] - Step 01: Initial HomePage
+[31-10-2024 10:24:48.411 INFO com.uniscore.Config.LoggerUtil] - Step 02: Click to Allow button
+[31-10-2024 10:24:54.467 INFO com.uniscore.Config.LoggerUtil] - Step 03: Click to UserProfile button
+[31-10-2024 10:24:58.440 INFO com.uniscore.Config.LoggerUtil] - Step 04: Click to Login button
+[31-10-2024 10:24:59.882 INFO com.uniscore.Config.LoggerUtil] - Step 05: Click to Login Google button
+[31-10-2024 10:25:05.573 INFO com.uniscore.Config.LoggerUtil] - Clicked on the first account
+[31-10-2024 10:25:12.061 INFO com.uniscore.Config.LoggerUtil] - Step 09: Back to ALL screen page
