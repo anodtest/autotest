@@ -1,7 +1,7 @@
-package com.thientester.Checkbox_Radio_Dropdown;
+package com.anodtester.Checkbox_Radio_Dropdown;
 
-import com.thientester.common.BaseTest;
-import com.thientester.Config.LoggerUtil;
+import com.anodtester.common.BaseTest;
+import com.anodtester.Config.LoggerUtil;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -9,6 +9,8 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 import java.util.List;
+
+import static com.anodtester.common.BaseTest.createBrowser;
 
 public class HandleCheckbox extends BaseTest {
 
