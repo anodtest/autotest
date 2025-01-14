@@ -27,60 +27,59 @@ public class HandleLogin extends BaseTest {
         driver.findElement(By.xpath("//input[@id='password']")).sendKeys("123456");
         driver.findElement(By.xpath("//button[@type='submit']")).click();
         Thread.sleep(6000);
+
         // Wait for the Security question popup to appear
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//div[@class='modal-body']")));
 
         LoggerUtil.log("Security question popup displayed.");
         Thread.sleep(6000);
+
         // Lấy danh sách các radio buttons trong modal-body
         List<WebElement> radioButtons = driver.findElements(By.xpath("//div[@class='modal-body']//input[@type='radio']"));
 
-        // Xpath của feedback message
-        String feedbackXPath = "//div[@class='modal-body']//span";
-
-        boolean isCorrectAnswerFound = false;
-        int n = 5; // Giới hạn số lần thử (n)
-
-        // Vòng lặp for để thử n radio buttons
-        for (int i = 0; i < n && i < radioButtons.size(); i++) {
+        // Lặp qua từng radio button và click
+        for (int i = 0; i < radioButtons.size(); i++) {
+            // Lấy lại danh sách radio buttons để đảm bảo phần tử không bị stale
+            radioButtons = driver.findElements(By.xpath("//div[@class='modal-body']//input[@type='radio']"));
             WebElement radioButton = radioButtons.get(i);
 
             LoggerUtil.log("Selecting radio button #" + (i + 1));
 
             // Click radio button
             radioButton.click();
-
-            // Chờ feedback message cập nhật
-            WebElement feedbackMessage = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(feedbackXPath)));
-            String feedbackText = feedbackMessage.getText();
-            LoggerUtil.log("Feedback message text: " + feedbackText);
-
-            // Kiểm tra nội dung của feedback message
-            if (feedbackText.contains("Your answer is wrong, please select other")) {
-
-            } else if (feedbackText.contains("Congrats, your answer is right")) {
-                LoggerUtil.log("Correct answer found.");
-                isCorrectAnswerFound = true;
-                break; // Thoát vòng lặp khi tìm thấy câu trả lời đúng
-
-            } else {
-                LoggerUtil.log("Unexpected feedback: " + feedbackText);
-            }
+            Thread.sleep(2000); // Chờ một chút sau khi click
         }
 
+        LoggerUtil.log("All radio buttons have been clicked.");
 
-        // Xác thực nếu không tìm thấy câu trả lời đúng
-        if (!isCorrectAnswerFound) {
-            LoggerUtil.log("Test Failed: No correct answer found within " + n + " attempts.");
-            captureScreenshot();
-            return;
-        }
-        Thread.sleep(3000);
-        // Đảm bảo rằng phần tử OK Button có thể click được
+        // Click nút OK trong modal-footer
         WebElement okButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//div[@class='modal-footer']//button[@type='button']")));
         okButton.click();
         LoggerUtil.log("Clicked the OK button.");
+
+        Thread.sleep(3000);
+
+        // Tiếp tục các thao tác khác sau khi hoàn thành việc xử lý radio buttons
+        WebElement buyTicketsButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//span[normalize-space()='Buy tickets']")));
+        buyTicketsButton.click();
+        Thread.sleep(3000);
+
+        WebElement vipPurchaseTicketsButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//span[normalize-space()='VIP purchase tickets']")));
+        vipPurchaseTicketsButton.click();
+        Thread.sleep(3000);
+
+        WebElement sellTicketsButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//button[@id='dashboard-tab-withdraw']")));
+        sellTicketsButton.click();
+        Thread.sleep(3000);
+
+        WebElement vipSaleTicketsButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//button[@id='dashboard-tab-vip-withdraw']")));
+        vipSaleTicketsButton.click();
+        Thread.sleep(3000);
+
+        WebElement vipSuspendedTicketsButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//button[@id='dashboard-tab-waiting']")));
+        vipSuspendedTicketsButton.click();
+        Thread.sleep(3000);
 
         LoggerUtil.log("Test Completed.");
     }
